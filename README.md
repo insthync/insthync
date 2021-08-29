@@ -4,7 +4,7 @@ I made some open source projects here, if you like to support me, you can do it 
 
 My blogs: [Medium](https://medium.com/@ittipon.bay), [Dev.to](https://dev.to/insthync)
 
-## 🏆 Github Profile Trophy
+### 🏆 Github Profile Trophy
 <a href="https://github.com/insthync/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=insthync&column=8&theme=juicyfresh&no-frame=true"/>
 </a>
