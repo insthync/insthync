@@ -9,7 +9,7 @@ My blogs: [Medium](https://medium.com/@ittipon.bay), [Dev.to](https://dev.to/ins
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=insthync&column=8&theme=juicyfresh&no-frame=true"/>
 </a>
 
-* * *
+---
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=insthync&count_private=true&include_all_commits=true" />
