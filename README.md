@@ -7,9 +7,7 @@ My blogs: [Medium](https://medium.com/@ittipon.bay), [Dev.to](https://dev.to/ins
 * * *
 
 ### 🏆 Github Profile Trophy
-<a href="https://github.com/insthync/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=insthync&column=8&theme=juicyfresh&no-frame=true"/>
-</a>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=insthync&column=8&theme=juicyfresh&no-frame=true"/>
 
 * * *
 
